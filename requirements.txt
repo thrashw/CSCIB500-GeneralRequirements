@@ -4,3 +4,9 @@ numpy
 scipy
 scikit-learn
 seaborn
+beautifulsoup4
+wordcloud
+requests
+nltk
+spacy
+html5lib
